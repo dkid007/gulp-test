@@ -1,0 +1,27 @@
+{
+  "name": "gulp-test",
+  "version": "0.0.0",
+  "description": "Clean CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkid007/gulp-test.git"
+  },
+  "keywords": [
+    "gulp",
+    "clean-css"
+  ],
+  "author": "Donnyell Kiddie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkid007/gulp-test/issues"
+  },
+  "homepage": "https://github.com/dkid007/gulp-test",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-minify-css": "^0.3.13"
+  }
+}
